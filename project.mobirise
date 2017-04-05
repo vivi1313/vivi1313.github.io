@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -148,7 +148,7 @@
             "imageSize": "50",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00203439-2000x1051.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1-2000x1500.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -184,7 +184,7 @@
           },
           "title": "",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">澳洲樂GO</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">澳洲樂GO</a> "
         },
         {
           "_styles": {
@@ -430,7 +430,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x14299.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x142911.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
