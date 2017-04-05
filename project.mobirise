@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -17,12 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": true
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 82,
+    "uniqCompNum": 92,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -66,13 +66,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#171c2c"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#232c44!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#28324e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -94,7 +94,7 @@
           "_name": "menu",
           "_anchor": "menu-o",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#28324e",
             "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -369,7 +369,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "藍光螢火蟲洞",
+          "title": "藍光蟲洞",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -430,7 +430,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x14291.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x14299.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -484,6 +484,38 @@
           "title": "更多神秘景點",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "FONT": {
+              "font-size": "16px",
+              "text-align": "center",
+              "color": "#e25041"
+            },
+            "SPAN": {
+              "color": "#7e9b9f",
+              "font-size": "13px"
+            },
+            "H3": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<font color=\"#000000\"><a href=\"page3.html\">contact us</a><br></font>澳洲樂GO<br>",
+          "meta": ""
         }
       ]
     },
@@ -524,7 +556,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -540,8 +572,47 @@
             "showButtons": true
           },
           "title": "",
-          "text": "<span style=\"font-style: normal;\"><b>服務項目<br><br>專業機場接送 <br>商務/旅遊包車服務 <br>看房接送 /學校考察 <br>規劃景點一日遊</b></span>",
+          "text": "<span style=\"font-style: normal;\"><b>服務項目<br><br>專業機場接送 </b></span><br><span style=\"font-style: normal;\"><b>規劃景點一日遊<br>商務/旅遊包車服務 <br>看房接送 /學校考察&nbsp;</b></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">預約行程 BOOKING</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "更多服務項目",
+          "caption": "<p><br></p><p>🔎布里斯本包車一日遊:南岸河濱公園、市立植物園、庫莎山、故事橋、袋鼠角、Eat street貨櫃夜市</p><p>黃金海岸包車一日遊:衝浪者天堂、harbour town outlet購物中心、大嘴鳥餵食秀、水上教堂、德國小鎮、天堂農莊、春溪國家公園、神仙灣、席洛梅酒莊、雷明頓國家公園、藍光蟲</p><p>拜倫灣包車一日遊:危險角、血紅湖、大麻村、拜倫灣燈塔、熱帶水果園</p><p>陽光海岸包車一日遊:澳洲動物園、玻璃山、瑞士小鎮、Noosa國家公園、大波蘿公園</p><p>各大主題樂園、可倫賓/龍柏無尾熊動物園接送{可代訂門票}</p><p>昆士蘭周邊背包客農場接送：卡布丘、邦德堡、Gatton、Stanthorpe、Coffs&nbsp;</p>"
         },
         {
           "_tags": [
@@ -638,7 +709,7 @@
             }
           },
           "title1": "2016 Honda odyssey&nbsp;",
-          "subtitle1": "<font color=\"#000000\" style=\"font-style: normal;\"><b>2017年新車</b></font><br><font color=\"#000000\" style=\"font-style: normal;\"><b>全新車,可載7人</b></font>",
+          "subtitle1": "<br><font color=\"#cccccc\" size=\"3\"><span style=\"line-height: 22.399999618530273px;\"><b>7人座車 可載乘客6人</b></span></font>",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOKING<br></a>",
           "media2": {
@@ -653,9 +724,9 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "2016 Honda odyssey&nbsp;",
-          "subtitle2": "<span style=\"font-style: normal;\"><b>2016年新車</b></span>",
-          "caption2": "<b>全新車,可載7人</b>",
+          "title2": "&nbsp; Honda Hrv &nbsp;",
+          "subtitle2": "",
+          "caption2": "5人座車 可載乘客4人<br>",
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOKING<br></a>",
           "media3": {
             "image": {
@@ -669,9 +740,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Toyota-hiace-3",
-          "subtitle3": "<span style=\"font-style: normal;\"><b>2015年新車</b></span>",
-          "caption3": "<font color=\"#000000\"><b>車況良好,可載9人</b></font>",
+          "title3": "Toyota Hiace",
+          "subtitle3": "",
+          "caption3": "12人座車 可載乘客11人<br>",
           "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOKING</a>",
           "media4": {
             "image": {
@@ -711,17 +782,59 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "18px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "關於我們",
+          "caption": "<p>提供最專業可靠的安全旅遊接送</p><p>📌司機皆持有合法駕照與DA駕駛執照(通過背景無犯罪紀錄、無交通違規記錄、體檢合格</p><p>📌持有Australia合法機場接送與旅遊OA執照</p><p>📌車輛及新固定每6個月全車保養與每日車檢</p><p>📌車輛皆有商業全車險、及另外投保乘客意外險澳幣１０００萬</p><p>📌車輛提供：五人座ｓｕｖ休旅車、７,8人座豪華MPV、１２人座Mini Bus</p><p>📌車內乾淨舒適無任何異味、享有五星級感受</p>"
+        },
+        {
           "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-25",
+          "_anchor": "msg-box3-2j",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
@@ -743,7 +856,7 @@
           },
           "title": "澳洲樂GO",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">home</a>"
         }
       ]
     },
@@ -780,13 +893,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#171c2c"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#232c44!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#28324e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -808,7 +921,7 @@
           "_name": "menu",
           "_anchor": "menu-17",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#28324e",
             "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -826,14 +939,18 @@
               "src": "@PROJECT_PATH@/assets/images/logo1-154x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -898,6 +1015,48 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3004.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "注意事項",
+          "caption": "<div>煩請先告知詳細資料如下</div><div>✏️接送上下車地點與航班編號時間</div><div>✏️總人數以及嬰幼童（有7歲以下的小孩備有兒童安全坐椅）</div><div>✏️行李的數量（大、小皆要）方便安排最合適的車輛</div>"
+        },
+        {
           "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, p": {
@@ -932,7 +1091,7 @@
             "showButton": true
           },
           "title": "澳洲樂GO",
-          "text": "<p>謝謝您的光臨 &nbsp; 希望有機會為您服務</p><p><br></p>",
+          "text": "<p>歡迎大家隨時與我們聯繫、會依時間距離與人數快速回復報上最合理價錢</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
         }
       ]
